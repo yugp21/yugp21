@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-gif-url.com/namaste-world.gif](https://raw.githubusercontent.com/Dharmik3/guess-num.io/main/greetings.gif)" alt="Namaste, World!"/>
+  <img src="[https://your-gif-url.com/namaste-world.gif](https://raw.githubusercontent.com/yugp21/guess-num.io/main/greetings.gif)" alt="Namaste, World!"/>
 </p>
 
 <h1 align="center">I'm Yug, a frontend developer and learner🚀</h1>
