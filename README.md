@@ -6,9 +6,9 @@
 
 <h2>💫 About Me:</h2>
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React.
   
-- 🎓 Currently a B.Tech candidate at GCET V.V.Nagar
+- 🎓 Currently a B.Tech candidate at GCET V.V.Nagar.
   
 - 📫 How to reach me: yugpatel213006@gmail.com
 
