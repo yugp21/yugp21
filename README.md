@@ -12,6 +12,14 @@
   
 - 📫 How to reach me: yugpatel213006@gmail.com
 
+
+## 🛠️ Technologies & Tools:
+
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks/Libraries**: React, Node.js
+- **Tools**: Git, GitHub, VSCode
+
+
 <div align="center">
   <a href="https://github.com/yugp21">
     <img src="https://github-readme-stats.vercel.app/api?username=yugp21&show_icons=true&theme=radical" alt="Yug's GitHub stats" />
