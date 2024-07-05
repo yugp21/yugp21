@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">I'm Yug, a frontend developer and learner🚀</h1>
-
+sewofhwerifweojfowejfowofjwojfowjfowjfwojfojwofj
 <h2>💫 About Me:</h2>
 
 - 🌱 I’m currently learning React.
