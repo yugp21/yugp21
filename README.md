@@ -29,3 +29,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=yugp21&show_icons=true&theme=radical" alt="Yug's GitHub stats" />
   </a>
 </div>
+
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=yugp21&label=Profile%20Views&color=0&icon=4&pretty=true)](https://github-visitor-counter-pro.vercel.app)
+  
+</div>
