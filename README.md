@@ -16,7 +16,7 @@
 ## 🌐 Connect with me:
 <p align="left">
 
-<a href = "https://x.com/yugpatel__"><img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=626&ext=jpg"/></a>
+<a href = "https://x.com/yugpatel__"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
