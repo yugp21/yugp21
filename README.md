@@ -11,6 +11,15 @@
 - 🎓 Currently a B.Tech candidate at GCET V.V.Nagar.
   
 - 📫 How to reach me: yugpatel213006@gmail.com
+
+
+## 🌐 Connect with me:
+<p align="left">
+
+<a href = "https://x.com/yugpatel__"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+</p>
+
   
 <div align="center">
   <a href="https://github.com/yugp21">
