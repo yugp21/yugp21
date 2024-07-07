@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning React.
   
-- 🎓 Currently a B.Tech candidate at GCET V.V.Nagar.
+- 🎓 Currently a B.Tech candidate at GCET V.V.Naga
   
 - 📫 How to reach me: yugpatel213006@gmail.com
 
