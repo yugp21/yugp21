@@ -23,8 +23,8 @@
 </p>
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nwaliaez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nwaliaez&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=yugp21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yugp21&theme=dark&hide_border=false)<br/>
   
   [![](https://visitcount.itsvg.in/api?id=yugp21&label=Profile%20Views&color=0&icon=4&pretty=true)](https://github-visitor-counter-pro.vercel.app)
   
