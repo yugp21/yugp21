@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eeeee-chan/eeeee-chan/main/assets/hello-world.gif" alt="Hello, World!" width="500"/>
+  <img src="https://raw.githubusercontent.com/terkelg/awesome-animated-gifs/main/hand-wave.gif" alt="Waving Hand" width="250"/>
 </p>
 
 
