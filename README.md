@@ -3,7 +3,8 @@
 </p>
 
 
-<h1 align="center">I'm Yug, a frontend developer and learner🚀</h1>
+
+<h1 align="center">I'm Yug, a frontend developer with some animation skills and an avid learner.🚀</h1>
 
 <h2>💫 About Me:</h2>
 
