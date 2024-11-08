@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Namaste, World!" style="width: 500px; max-width: 100%; display: inline-block;"/>
+  <img src="https://raw.githubusercontent.com/eeeee-chan/eeeee-chan/main/assets/hello-world.gif" alt="Hello, World!" width="500"/>
 </p>
+
 
 <h1 align="center">I'm Yug, a frontend developer and learner🚀</h1>
 
