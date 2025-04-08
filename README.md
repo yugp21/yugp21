@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">II'm Yug, a frontend developer exploring the backend world to level up as a full-stack dev! 🔥</h1>
+<h1 align="center">I'm Yug, a frontend developer exploring the backend world to level up as a full-stack dev! 🔥</h1>
 
 <h2>💫 About Me:</h2>
 
