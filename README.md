@@ -1,39 +1,79 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Namaste, World!" style="width: 500px; max-width: 100%; display: inline-block;"/>
-</p>
+<div align="center">
 
+# Yug Patel
 
+**Frontend → Full-Stack · B.Tech, GCET V.V. Nagar**  
+Building interfaces, learning the server side.
 
-<h1 align="center">I'm Yug, a frontend developer exploring the backend world to level up as a full-stack dev! 🔥</h1>
+[![Email](https://img.shields.io/badge/yugpatel213006%40gmail.com-000?style=flat-square&logo=gmail&logoColor=white)](mailto:yugpatel213006@gmail.com)
+[![Twitter](https://img.shields.io/badge/@yugpatel__-000?style=flat-square&logo=x&logoColor=white)](https://x.com/yugpatel__)
+[![GitHub](https://img.shields.io/badge/yugp21-000?style=flat-square&logo=github&logoColor=white)](https://github.com/yugp21)
 
-<h2>💫 About Me:</h2>
+</div>
 
-- 🌱 I’m currently learning Backend Development 
-  
-- 🎓 Currently a B.Tech candidate at GCET V.V.Nagar.
-  
-- 📫 How to reach me: yugpatel213006@gmail.com
+---
 
-## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GSAP](https://img.shields.io/badge/gsap-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white) ![Locomotive Scroll](https://img.shields.io/badge/locomotive%20scroll-%23000000.svg?style=for-the-badge&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![C](https://img.shields.io/badge/C%20language-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Framer Motion](https://img.shields.io/badge/framer%20motion-%23333.svg?style=for-the-badge&logo=framer&logoColor=white) ![ScrollTrigger](https://img.shields.io/badge/ScrollTrigger-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white) ![Lenis](https://img.shields.io/badge/lenis-%23000000.svg?style=for-the-badge&logoColor=white) ![Three.js](https://img.shields.io/badge/three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-008000?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge) ![EJS](https://img.shields.io/badge/ejs-%2300BC3F.svg?style=for-the-badge&logo=ejs&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
- 
+## About
 
+Frontend developer with a growing interest in backend systems. Currently working through the full stack — from polished UIs to APIs and databases. Based in India, thinking globally.
 
+- 🎓 B.Tech @ GCET V.V. Nagar
+- 🌱 Currently exploring: Node.js · Express · MongoDB · PostgreSQL
+- 🔍 Interested in: Creative web, WebGL, performant animations
 
+---
 
+## Tech
 
-## 🌐 Connect with me:
-<p align="left">
+**Languages**
 
-<a href = "https://x.com/yugpatel__"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-000?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=white)
 
-</p>
-  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yugp21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yugp21&theme=dark&hide_border=false)<br/>
-  
-  [![](https://visitcount.itsvg.in/api?id=yugp21&label=Profile%20Views&color=0&icon=4&pretty=true)](https://github-visitor-counter-pro.vercel.app)
-  
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-000?style=flat-square&logo=redux&logoColor=764ABC)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![jQuery](https://img.shields.io/badge/jQuery-000?style=flat-square&logo=jquery&logoColor=0769AD)
+
+**Animation & Creative**
+
+![GSAP](https://img.shields.io/badge/GSAP-000?style=flat-square&logo=greensock&logoColor=88CE02)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000?style=flat-square&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-000?style=flat-square&logo=webgl&logoColor=990000)
+![Lenis](https://img.shields.io/badge/Lenis-000?style=flat-square&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-000?style=flat-square&logo=ejs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=flat-square&logo=springboot&logoColor=6DB33F)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1)
+
+---
+
+## Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yugp21&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&hide_title=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yugp21&theme=transparent&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Open to collaborations · Always learning</sub>
 </div>
