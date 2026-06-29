@@ -2,8 +2,10 @@
 
 # Yug Patel
 
-**Frontend → Full-Stack · B.Tech, GCET V.V. Nagar**  
-Building interfaces, learning the server side.
+**B.Tech · GCET V.V. Nagar · Frontend → Full-Stack**
+
+Crafting interfaces by day, figuring out the server side by night.  
+Proper keen on using code to make a real difference — starting with the people back home.
 
 [![Email](https://img.shields.io/badge/yugpatel213006%40gmail.com-000?style=flat-square&logo=gmail&logoColor=white)](mailto:yugpatel213006@gmail.com)
 [![Twitter](https://img.shields.io/badge/@yugpatel__-000?style=flat-square&logo=x&logoColor=white)](https://x.com/yugpatel__)
@@ -15,11 +17,14 @@ Building interfaces, learning the server side.
 
 ## About
 
-Frontend developer with a growing interest in backend systems. Currently working through the full stack — from polished UIs to APIs and databases. Based in India, thinking globally.
+I'm a frontend developer making my way into full-stack territory — currently deep in Spring Boot Security, sorting out auth flows and REST APIs.
+
+Beyond the tech, I'm dead set on building tools that actually help village communities — local farmers, small businesses, people who don't usually get a look-in when it comes to digital solutions. Reckon good software shouldn't just be for big cities.
 
 - 🎓 B.Tech @ GCET V.V. Nagar
-- 🌱 Currently exploring: Node.js · Express · MongoDB · PostgreSQL
-- 🔍 Interested in: Creative web, WebGL, performant animations
+- 🌱 Currently digging into: Spring Boot Security · JWT · OAuth2 · REST APIs
+- 🤝 On a mission to: build practical tech for rural communities
+- 📬 Reach me: yugpatel213006@gmail.com
 
 ---
 
@@ -42,20 +47,13 @@ Frontend developer with a growing interest in backend systems. Currently working
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=flat-square&logo=bootstrap&logoColor=7952B3)
 ![jQuery](https://img.shields.io/badge/jQuery-000?style=flat-square&logo=jquery&logoColor=0769AD)
 
-**Animation & Creative**
-
-![GSAP](https://img.shields.io/badge/GSAP-000?style=flat-square&logo=greensock&logoColor=88CE02)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-000?style=flat-square&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-000?style=flat-square&logo=webgl&logoColor=990000)
-![Lenis](https://img.shields.io/badge/Lenis-000?style=flat-square&logoColor=white)
-
 **Backend & Databases**
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Spring Security](https://img.shields.io/badge/Spring_Security-000?style=flat-square&logo=springsecurity&logoColor=6DB33F)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-000?style=flat-square&logo=ejs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1)
@@ -75,5 +73,5 @@ Frontend developer with a growing interest in backend systems. Currently working
 ---
 
 <div align="center">
-<sub>Open to collaborations · Always learning</sub>
+<sub>Always building · Always learning · Code for community</sub>
 </div>
