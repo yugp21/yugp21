@@ -57,7 +57,7 @@ The long-term plan is less about the stack and more about who it's for — I wan
 
 ## On the work itself
 
-> "It is not the strength, but the duration of great sentiments that makes great men."
+> "It is not the strength, but the duration of great sentiments that makes great men." <
 
 <br>
 
