@@ -48,7 +48,7 @@ The long-term plan is less about the stack and more about who it's for — I wan
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yugp21&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&hide_title=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yugp21&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&hide_title=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=yugp21&theme=transparent&hide_border=true)
 
 </div>
@@ -57,10 +57,6 @@ The long-term plan is less about the stack and more about who it's for — I wan
 
 ## On the work itself
 
-> "It is not the strength, but the duration of great sentiments that makes great men." 
+> "It is not the strength, but the duration of great sentiments that makes great men."
 
 <br>
-
-<div align="center">
-<sub>Currently building in public — <a href="https://portfolio-yugp21s-projects.vercel.app/">portfolio here</a></sub>
-</div>
