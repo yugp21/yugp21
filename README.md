@@ -49,9 +49,21 @@ The long-term plan is less about the stack and more about who it's for — I wan
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yugp21&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&hide_title=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yugp21&theme=transparent&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yugp21&theme=transparent&hide_border=true)
 
 </div>
+
+<br>
+
+## On the work itself
+
+> "He who has a why to live can bear almost any how."
+> — **Friedrich Nietzsche**
+
+> "The secret of change is to focus all of your energy, not on fighting the old, but on building the new."
+> — **Socrates**
+
+Nietzsche gives the reason to endure the grind; Socrates gives the direction to point it in. Discipline without a *why* burns out — a *why* without discipline stays a daydream. Somewhere in the overlap of the two is where the actual work gets done.
 
 <br>
 
